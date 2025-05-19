@@ -1,4 +1,4 @@
-# Atuin UI
+# Atuin Web UI
 
 A web-based UI for [Atuin](https://github.com/atuinsh/atuin) shell history, with the backend serving the frontend in an embedded mode.
 
