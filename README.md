@@ -76,13 +76,6 @@ The backend API server will run at http://localhost:8080
 
 The application will attempt to automatically locate your Atuin database. If it cannot find it, you'll be prompted to specify the path.
 
-## Configuration
-
-The application stores its configuration in:
-- Windows: `%APPDATA%\atuin-ui\config.json`
-- macOS: `~/Library/Application Support/atuin-ui/config.json`
-- Linux: `~/.config/atuin-ui/config.json`
-
 ## License
 
 [MIT License](LICENSE)
